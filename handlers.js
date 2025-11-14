@@ -11,7 +11,6 @@ const {
 const userState = new Map();
 
 const setupHandlers = (bot, data, channelUsername) => {
-
     const sendWelcome = (ctx) => {
         userState.delete(ctx.chat.id);
         ctx.reply(
@@ -21,7 +20,7 @@ const setupHandlers = (bot, data, channelUsername) => {
     };
 
     bot.start(sendWelcome);
-    bot.hears("Bosh menyu", sendWelcome);
+    bot.hears("Bosh menyu");
 
     bot.hears("🔍 Qidiruv", (ctx) => {
         userState.set(ctx.chat.id, {mode: 'search'});

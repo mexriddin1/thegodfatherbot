@@ -47,14 +47,14 @@ const createContentDescription = (item, data) => {
         `*Mamlakat*: ${safeCountry}\n` +
         `*Janrlar*: ${safeGenres}\n` +
         `*Tillar*: ${safeLanguages}\n` +
-        `*Subtitrlar*: ${safeSubtitles}\n\n`
+        `*Subtitrlar*: ${safeSubtitles}\n`
     );
 };
 
 const createContentDescriptionForItem = (item, data) => {
     const {title, type} = item;
 
-    const itemType = type === 'series' ? '📺 Serial' : '🎞️ Kino';
+    const itemType = type === 'series' ? '📺 Serial: ' : '🎞️ Kino: ';
 
     const serialInfo = item.type === 'series'
         ? `\n*${escapeMarkdownV2(String(item.season))}*\\-sezon, *${escapeMarkdownV2(String(item.episode))}*\\-qism\\.`
@@ -66,15 +66,15 @@ const createContentDescriptionForItem = (item, data) => {
 
     const safeTitle = escapeMarkdownV2(firstItem.title);
     const safeYear = escapeMarkdownV2(firstItem.year);
-    const safeImdb = escapeMarkdownV2(firstItem.formats.join(', '));
-    const format = escapeMarkdownV2(firstItem.genres.join(', '));
+    const safeImdb = escapeMarkdownV2(firstItem.imdb);
+    const format = escapeMarkdownV2(firstItem.formats.join(', '));
     const safeCountry = escapeMarkdownV2(firstItem.country);
     const safeGenres = escapeMarkdownV2(firstItem.genres.join(', '));
     const safeLanguages = escapeMarkdownV2(firstItem.languages.join(', '));
     const safeSubtitles = escapeMarkdownV2(firstItem.subtitles.join(', '));
 
     return (
-        `*${safeTitle}* *${safeYear}* *${itemType}*\n\n` +
+        `*${itemType}* *${safeTitle}* *${safeYear}*\n\n` +
         `*IMDb*: ${safeImdb}\n` +
         `*Sifat*: ${format}\n` +
         `*Mamlakat*: ${safeCountry}\n` +

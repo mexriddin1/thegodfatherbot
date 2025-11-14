@@ -1,5 +1,25 @@
 [
   {
+    "type": "movie",
+    "title": "Forrest Gamp",
+    "season": null,
+    "episode": null,
+    "message_id": 120,
+    "year": 1994,
+    "imdb": 8.8,
+    "country": "The United States",
+    "genres": [
+      "Epic",
+      "Drama",
+      "Romance",
+      "Comedy",
+      "Adventure"
+    ],
+    "formats": ["1080p", "Blu-Ray"],
+    "languages": ["Uzbek-2x", "Russian", "English"],
+    "subtitles": ["Russian", "English"]
+  },
+  {
     "type": "series",
     "title": "Og'u",
     "season": 1,
@@ -9,15 +29,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -31,15 +51,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -53,15 +73,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -75,15 +95,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -97,15 +117,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -119,15 +139,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -141,15 +161,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -163,15 +183,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -185,15 +205,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -207,15 +227,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -230,15 +250,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -252,15 +272,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -274,15 +294,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -296,15 +316,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -318,15 +338,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -340,15 +360,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -362,15 +382,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -384,15 +404,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -406,15 +426,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -428,15 +448,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek", "Russian", "English"],
     "subtitles": ["Uzbek", "Russian", "English"]
   },
@@ -451,15 +471,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -473,15 +493,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -495,15 +515,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -517,15 +537,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -539,15 +559,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -561,15 +581,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -583,15 +603,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -605,15 +625,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -627,15 +647,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   },
@@ -649,15 +669,15 @@
     "imdb": 8.3,
     "country": "Mexico",
     "genres": [
-      "DrugCrime",
+      "Drug Crime",
       "Epic",
-      "TrueCrime",
+      "True Crime",
       "Biography",
       "Crime",
       "Drama",
       "Thriller"
     ],
-    "formats": ["1080p", "BluRay"],
+    "formats": ["1080p", "Blu-Ray"],
     "languages": ["Uzbek"],
     "subtitles": ["Russian", "English"]
   }
